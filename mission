@@ -1,10 +1,106 @@
 [
-    {
-        "mission":"activity/v3/activities/open_bitget_exchange",
-        "claim":"activity/v2/missions/428ade22-16ca-4c05-9ba3-9a2e0e19438e/claim"
-    },
-    {
-        "mission":"activity/v3/activities/open_bitget_prize_pool",
-        "claim":"activity/v2/missions/192c7677-0ac8-4811-8751-a01baabe9a50/claim"
-    }
+  {
+    "mission": "activity/v3/activities/open_bitget_exchange",
+    "claim": "activity/v2/missions/428ade22-16ca-4c05-9ba3-9a2e0e19438e/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_bitget_prize_pool",
+    "claim": "activity/v2/missions/192c7677-0ac8-4811-8751-a01baabe9a50/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_mvl_cmc",
+    "claim": "activity/v2/missions/2acd931b-b5a4-43fe-8aca-59be72e5746e/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_kay_twitter",
+    "claim": "activity/v2/missions/4d3a2841-d8fb-4cc8-98c2-9ebf1a70fe3b/claim"
+  },
+  {
+    "mission": "activity/v3/activities/retweet_kay_twitter_larkdavis",
+    "claim": "activity/v2/missions/92215e42-56f1-45a0-908c-70effcea5efa/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_mytonwallet",
+    "claim": "activity/v2/missions/54017b8c-fb28-4d4c-87f8-2493407b5b45/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_tonkeeper",
+    "claim": "activity/v2/missions/348d1c6f-10a5-4bc1-8c98-9884ffaa8329/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_mvl_twitter",
+    "claim": "activity/v2/missions/655bc948-65cc-46e4-ba51-73227d2f081f/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_blum_telegram_app",
+    "claim": "activity/v2/missions/22a3b049-4dc5-4579-b4a4-5eb3de64ca48/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_memecon_event_luma",
+    "claim": "activity/v2/missions/f2d391ed-eb5f-4afd-96bf-b45eaa3a6780/claim"
+  },
+  {
+    "mission": "activity/v3/activities/retweet_mvl_tada_mini_trip",
+    "claim": "activity/v2/missions/bb42751b-d875-4fc7-9c7c-06c2d2234011/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_bfd_coin_telegram_app",
+    "claim": "activity/v2/missions/662ed790-bbec-4706-bd88-054a68a18e92/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_telegram_duckcoop",
+    "claim": "activity/v2/missions/3cb7a745-33fa-4215-9b84-f1bec762e82c/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_telegram_chat_duckcoop",
+    "claim": "activity/v2/missions/004c4406-bfc7-4149-a94b-b439db02898f/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_topgamefi_telegram_app",
+    "claim": "activity/v2/missions/5ecbe531-34e0-4666-936e-ddd518bf306d/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_boinker_telegram_app",
+    "claim": "activity/v2/missions/be44121e-4cd2-409d-b381-8dc90665c9f7/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_telegram_chat_boinker",
+    "claim": "activity/v2/missions/3c0cf4ab-ee41-4505-bbc4-8bf3371f10dc/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_stephero_telegram_app",
+    "claim": "activity/v2/missions/8e760015-9b2a-42e4-a168-663ef8747bf6/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_pehe_telegram_app",
+    "claim": "activity/v2/missions/49501b39-1c9c-44a4-b981-f4ec3ca59fa3/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_ton_church_telegram_app",
+    "claim": "activity/v2/missions/c8438df6-2955-41ca-a1a3-fb08a9651acc/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_telegram_dejendog",
+    "claim": "activity/v2/missions/798958d7-af9a-45e1-b3d0-b64d7c193e34/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_telegram_chat_dejendog",
+    "claim": "activity/v2/missions/67800d14-c106-4ead-b5ac-4aeb1e068663/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_telegram_chat_vanilla",
+    "claim": "activity/v2/missions/81335174-7497-482c-a769-e719be01fd96/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_tada_app",
+    "claim": "activity/v2/missions/0a2f514d-d35b-4b25-ac03-d34f863b1a36/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_ton_twitter",
+    "claim": "activity/v2/missions/5db1e7b6-03d7-4376-abe5-8205a0da640f/claim"
+  },
+  {
+    "mission": "activity/v3/activities/open_tonsociety_twitter",
+    "claim": "activity/v2/missions/fef7066b-05c2-49b6-a514-d4c8eb628463/claim"
+  }
 ]
