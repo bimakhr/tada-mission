@@ -1,0 +1,10 @@
+[
+    {
+        "mission":"activity/v3/activities/open_bitget_exchange",
+        "claim":"activity/v2/missions/428ade22-16ca-4c05-9ba3-9a2e0e19438e/claim"
+    },
+    {
+        "mission":"activity/v3/activities/open_bitget_prize_pool",
+        "claim":"activity/v2/missions/192c7677-0ac8-4811-8751-a01baabe9a50/claim"
+    }
+]
